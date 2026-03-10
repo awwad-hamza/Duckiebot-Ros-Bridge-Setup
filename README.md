@@ -1,4 +1,4 @@
-# Duckiebot ROS1 ↔ ROS2 Bridge Guide
+# Duckiebot ROS1 ↔ ROS2 Humble Bridge Guide
 
 This guide shows how to connect a **ROS2 Container** to a **ROS1 Duckiebot** using `ros1_bridge`.
 
