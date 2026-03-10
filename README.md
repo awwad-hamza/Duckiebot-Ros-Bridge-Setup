@@ -56,7 +56,7 @@ Verify:
 docker images | grep ros1-bridge
 ```
 ## Define Robot Variables
-Run this where you are running ROS2 (fill in the placeholders):
+On a new terminal (run this where you are running ROS2 and fill in the hostname placeholder):
 ```
 export HOSTNAME=<your_duckiebot_hostname>
 export ROBOT_FQDN="${HOSTNAME}.local"
